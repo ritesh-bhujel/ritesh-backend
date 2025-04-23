@@ -1,0 +1,15 @@
+{
+  "name": "ritesh_backend",
+  "version": "1.0.0",
+  "description": "Backend development",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javasript",
+    "backend"
+  ],
+  "author": "Ritesh Bhujel",
+  "license": "ISC"
+}
