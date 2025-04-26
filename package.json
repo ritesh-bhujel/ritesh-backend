@@ -2,14 +2,18 @@
   "name": "ritesh_backend",
   "version": "1.0.0",
   "description": "Backend development",
+  "type": "module",
   "main": " ",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javasript",
     "backend"
   ],
   "author": "Ritesh Bhujel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
